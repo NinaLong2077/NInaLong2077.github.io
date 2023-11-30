@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /TA/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Hackathons"
-    url: /Hackathons/
+  # - title: "Hackathons"
+  #   url: /Hackathons/
     
   # - title: "Portfolio"
   #   url: /portfolio/
