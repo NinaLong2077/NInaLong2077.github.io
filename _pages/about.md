@@ -31,4 +31,5 @@ Teaching
 🧠 Tutored Brain Bee neuroscience competition in 2021, 40% of my students won awards 🎉 Reach out if you're interested in free prep materials (I made 1000+ pages of slides, exams and hw)
 
 📚 **CSC242 Intro to Artificial Intelligence** Undergrad TA, Spring 2022 & Fall 2023
+
    **DSC202 Data Science at Scale** Undergrad TA, Spring 2023 & Spring 2024
